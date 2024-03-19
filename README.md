@@ -1,1 +1,1 @@
-# gitexam good mor
+# gitexam good morning
